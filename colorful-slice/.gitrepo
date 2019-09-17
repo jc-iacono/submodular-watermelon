@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:jc-iacono/colorful-slice.git
 	branch = master
-	commit = 6e0553fb8ae48a6c964503d4972c4ebb4549de65
-	parent = d79d8aff888e6327bfa2ba10767cdf9e1252bc19
+	commit = 2e2c8a5e5cfb3906e677cf2207ad788a99a49594
+	parent = 5dca8df4c097e7c3ac16929477bf0e46fd8f1e37
 	method = merge
 	cmdver = 0.4.0
